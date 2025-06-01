@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=ajayarunachalam&)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ajayarunachalam&hide_border=true&area=true)
+
 
