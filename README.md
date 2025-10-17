@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> Hi 👋 , I'm Ajay Arunachalam, Senior Data Scientist/Manager <br/></h2> 
+<h2 align="center"> Hi 👋 , I'm Ajay Arunachalam, Senior Data Scientist & Technical Manager <br/></h2> 
   <a href="https://github.com/ajayarunachalam" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/ajayarunachalam?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
